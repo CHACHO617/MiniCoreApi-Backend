@@ -15,14 +15,9 @@ Este proyecto es un sistema desarrollado con Dotnet 6 para el backend, el cual i
 ### Tecnologías utilizadas:
 Para la implementacion del presente proyecto se utilizo Dotnet 6 para crear el backend del mini core y por otro lado se utilizó la version 18.0.2 de React para la implementacion del frontend. Por otro lado el proyecto tambien fue deployado utilizando Netlify y utiliza una base de datos a nivel local. 
 
-### Paquetes: 
-Los paquetes que se utilizaron en este proyecto son: 
-- 
--a
--a
+### Paquetes:
 -
--a
--a
+
 
 ###¿Como correr el proyecto?
 Como tal para ejecutar el proyecto se debe crear una base de datos a nivel local con la informacion que se muestra en los modelos (se recomienda utilizar el query adjunto ___) para crear la base de datos a nivel local
