@@ -24,7 +24,7 @@ Como tal para ejecutar el proyecto se debe crear una base de datos a nivel local
 Luego se debe realizar una cadena de conexion a la base de datos; por consiguiente se podra almacenar informacion en ella. Por otro lado tambien se deberá implementar y correr tanto el backend como el frontend del sistema y deployarlo utilzando un software de preferencia (en este caso Netlify). Una vez que se tengan corriendo correctammente los APIs y se pueda acceder a la informacion se debe verificar que este corriendo el API primero para luego correr el backend y que todo ejecute con normalidad y sin problemas
 
 ---
-##Implementación del backend:
+## Implementación del backend:
 Como tal la implmentacion del backend de este sistema consta de APIs, ademas de la logica que se realiza para poder tomar datos y dar un resultado. Estos proceos como tal se realzan en el backend de la aplicacion permitiendo que las vistas o el front end en React unicamente muestre la informacaion que se ha calculado
 ---
 ## Implementacion del frontend:
