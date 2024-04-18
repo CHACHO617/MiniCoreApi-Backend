@@ -35,6 +35,8 @@ Frontend:
 ### ¿Como correr el proyecto?
 Para ejecutar el proyecto, el primer paso es crear una base de datos local SQL utilizando la información proporcionada en los modelos. Se recomienda utilizar el Query adjunto como guía para esta tarea. Una vez creada la base de datos, se procede a establecer una cadena de conexión para permitir el almacenamiento de información en ella. Posteriormente, se debe implementar y ejecutar tanto el backend como el frontend del sistema, y desplegarlos utilizando una plataforma de preferencia, como Netlify en este caso. Es importante verificar que los APIs estén en funcionamiento antes de ejecutar el backend, asegurándose de que todo opere con normalidad y sin inconvenientes.
 
+[Link a Query](https://github.com/CHACHO617/MiniCoreApi-Backend/blob/main/QueryMinicoreVentas.sql)
+
 ---
 ## Implementación del backend:
 La implementación del backend de este sistema se compone principalmente de APIs y la lógica necesaria para procesar los datos y generar resultados. Estos procesos se ejecutan en el backend de la aplicación, permitiendo que el frontend en React se encargue exclusivamente de mostrar la información calculada
